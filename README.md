@@ -76,12 +76,6 @@ mars-data-analysis/
 
 ![Minimum Temperature Over Time](images/min_temp_over_time.png)
 
-*Dependencies*:
-
-- `pandas`
-- `matplotlib`
-- `seaborn`
-
 ## Conclusion
 
 This project provides insights into Mars's climatic conditions and recent news developments. By leveraging Python's data analysis and web scraping capabilities, we can better understand the Martian environment and stay updated on related news.
