@@ -57,19 +57,24 @@ mars-data-analysis/
 *Key Visualizations*:
 
 - **Average Minimum Temperature Per Month**: Displays the average minimum temperatures recorded each month.
-  ![Average Minimum Temperature Per Month](images/avg-min-temp-month.png)
+
+![Average Minimum Temperature Per Month](images/avg-min-temp-month.png)
 
 - **Sorted Average Minimum Temperature**: Shows the average minimum temperatures per month, sorted in ascending order.
-  ![Sorted Average Minimum Temperature](images/avg-min-temp-month-sorted.png)
+
+![Sorted Average Minimum Temperature](images/avg-min-temp-month-sorted.png)
 
 - **Average Atmospheric Pressure Per Month**: Illustrates the average atmospheric pressure recorded each month.
-  ![Average Atmospheric Pressure Per Month](images/avg-pressure-month.png)
+
+![Average Atmospheric Pressure Per Month](images/avg-pressure-month.png)
 
 - **Sorted Atmospheric Pressure Trends**: Presents the average atmospheric pressure per month, sorted in ascending order.
-  ![Sorted Atmospheric Pressure Trends](images/avg-pressure-month-sorted.png)
+
+![Sorted Atmospheric Pressure Trends](images/avg-pressure-month-sorted.png)
 
 - **Minimum Temperature Over Time**: Plots the minimum temperature variations over the recorded period.
-  ![Minimum Temperature Over Time](images/min_temp_over_time.png)
+
+![Minimum Temperature Over Time](images/min_temp_over_time.png)
 
 *Dependencies*:
 
